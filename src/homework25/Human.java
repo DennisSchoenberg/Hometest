@@ -6,6 +6,7 @@ public class Human {
 
     public void introduce() {
         System.out.println("Hallo, my name is " + name + ". I am " + age + " years old.");
+        System.out.println("Buy");
     }
 
 }
