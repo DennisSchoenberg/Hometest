@@ -5,5 +5,6 @@ public class Main01 {
         String text = "Hello world!";
         char[] arrStr = text.toCharArray();
         System.out.println(arrStr[0]);
+        // fuuuuuuu
     }
 }
